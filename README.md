@@ -1,6 +1,15 @@
 Android Hola Mundo
 ===================
 
+##Descripción
+<p align="justify">
+	Aplicación simple que al precionar un boton muestra un mensaje en un <i>TextView</i> aumentando un contador.
+</p>
+
+<p align="center">
+	<img src="" width="" height="">
+</p>
+
 
 ## Fuente
 
