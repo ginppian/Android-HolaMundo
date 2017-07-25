@@ -7,7 +7,7 @@ Android Hola Mundo
 </p>
 
 <p align="center">
-	<img src="" width="" height="">
+	<img src="https://github.com/ginppian/Android-HolaMundo/blob/master/imgs/img1.jpeg" width="384" height="512">
 </p>
 
 
